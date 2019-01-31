@@ -24,7 +24,7 @@ caso queire mudar do async pro rewrite você tera que seguir esses passos
 
 4° Digite pip show discord.py
 
-caso esteja no linux (debian/ubuntu/deepin/mint) e queiro mudar do async pro rewrite
+caso esteja no linux (debian/ubuntu/deepin/mint) e queire mudar do async pro rewrite
 
 1° Abra seu cmd
 
