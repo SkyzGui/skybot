@@ -34,9 +34,6 @@ caso esteja no linux (debian/ubuntu/deepin/mint) e queire mudar do async pro rew
 
 4° Digite pip3 show discord.py
 
-# Caso queire conhecer uma comunidade em programação de discord.py discord.js e outros acesse
+# Caso queire conhecer uma comunidade de foco em programação em bots para o discord acesse
 
 https://discord.me/newdevs
-
-
-espero que goste do meu github :v
